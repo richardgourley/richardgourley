@@ -6,7 +6,7 @@
 
 I am a Data driven app creator and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Barcelona.
 
-<div width="50%">
+<div align="center">
   <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate"/>
 </div>
 
