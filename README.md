@@ -4,6 +4,8 @@
 
 ### :man_technologist: About Me :
 
+I am a Data driven app creator and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Barcelona.
+
 <!--
 **richardgourley/richardgourley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
