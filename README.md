@@ -15,10 +15,10 @@ I am a Data driven app creator and Data Analyst <img src="https://media.giphy.co
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### :certificate: Recent Certifications :
+### Certified In :
 
-<div align="center">
-  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="230" width="230"/>
+<div>
+  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="150" width="150"/>
 </div>
 
 ---
