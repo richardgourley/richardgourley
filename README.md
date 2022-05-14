@@ -4,11 +4,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Data driven app creator and Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Barcelona.
+**Hello! I am a Data Analyst and former backend web developer based in Barcelona.**
 
 - 🔭 I’m currently working on data preparation, data modeling, data visualization and managing data assets using PowerBI, Python and Pandas.
-- 🌱 I’m currently learning about Data Engineering, Data Warehouses, Data Bricks, Data Lakes and cloud services.
 - 😄 I previously worked for many years in backend web development making database driven web applications using mainly Django, and occasionally .NET or PHP.
+- 🌱 I’m currently learning about Data Engineering, Data Warehouses, Data Bricks, Data Lakes and cloud services.
 - 🔭 I’m currently working on a data analysis blog and also website to help non-technical people build better database driven applications.
 - 💬 Contact me regarding any data analyst or database/ Python projects you wish to collaborate on.
 - ⚡ Fun fact: I used to be a teacher and I still enjoy teaching. I really hope some of my github repos can help others learn some tech skills!
