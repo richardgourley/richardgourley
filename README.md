@@ -24,13 +24,14 @@ I am a Data driven app creator and Data Analyst <img src="https://media.giphy.co
 
 - In creating database driven web applications over the years I've previously got to know:
 
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardgourley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **richardgourley/richardgourley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
