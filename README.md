@@ -46,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richardgourley)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
