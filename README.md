@@ -6,11 +6,12 @@
 
 **Hello! I am a Data Analyst and former backend web developer based in Barcelona.**
 
-- 🔭 I’m currently working on data preparation, data modeling, data visualization and managing data assets using PowerBI, Python and Pandas.
-- 😄 I previously worked on backend web development making database driven web applications and systems using Python and Django, PHP and .NET.
+- 🔭 I’m currently working on data preparation, data modeling, data visualization and managing data assets using **PowerBI, Python and Pandas**.
 - 🌱 I’m currently learning about Apache Spark, Data Warehousing, Data Bricks, Data Lakes and cloud services.
-- 🔭 I’m currently working on a data analysis blog and a website to help non-technical people build better database driven applications.
-- 💬 Contact me regarding any data analyst or database/ Python projects you wish to collaborate on.
+
+- 😄 I've previously worked on  database driven web applications and website dashboard management systems using Python and Django, PHP and .NET.
+
+- 💬 Contact me regarding any data analyst or database projects you wish to collaborate on.
 - ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
 
 ---
