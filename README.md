@@ -7,25 +7,25 @@
 **Hello! I am a Data Analyst and former backend web developer based in Barcelona.**
 
 - 🔭 I’m currently working on data preparation, data modeling, data visualization and managing data assets using PowerBI, Python and Pandas.
-- 😄 I previously worked for many years in backend web development making database driven web applications using mainly Django, and occasionally .NET or PHP.
-- 🌱 I’m currently learning about Apache Spark, Data Engineering, Data Warehouses, Data Bricks, Data Lakes and cloud services.
-- 🔭 I’m currently working on a data analysis blog and also website to help non-technical people build better database driven applications.
+- 😄 I previously worked on backend web development making database driven web applications and systems using Python and Django, PHP and .NET.
+- 🌱 I’m currently learning about Apache Spark, Data Warehousing, Data Bricks, Data Lakes and cloud services.
+- 🔭 I’m currently working on a data analysis blog and a website to help non-technical people build better database driven applications.
 - 💬 Contact me regarding any data analyst or database/ Python projects you wish to collaborate on.
-- ⚡ Fun fact: I used to be a teacher and I still enjoy teaching. I really hope some of my github repos can help others learn some tech skills!
+- ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
 
 ---
 
-### Certified In :
+### Certifications :
 
 <div>
-  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="150" width="150"/>
+  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="130" width="130"/>
 </div>
 
 ---
 
 ### :hammer_and_wrench: Current Languages and Tools :
 
-- As well as PowerBI and SQL Server, I'm currently working with:
+- As well as **PowerBI and SQL Server**, I use and have experience with:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -37,13 +37,19 @@
 
 ### :hammer_and_wrench: Tools I have previously used :
 
-- In creating database driven web applications over the years I've previously got to know:
+- I have used a variety of different tools in creating database driven web applications:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp
+
 </div>
 
 ---
