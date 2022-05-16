@@ -54,6 +54,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richardgourley)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?richardgourley&color=green)
+
 <!--
 **richardgourley/richardgourley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
