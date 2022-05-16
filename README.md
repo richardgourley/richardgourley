@@ -55,28 +55,42 @@
 ### Educational Repos
 
 https://github.com/richardgourley/data-analysis-report-with-sql
+
 https://github.com/richardgourley/sql-staging-database-and-data-warehouse
+
 https://github.com/richardgourley/sql-server-query-to-pandas
+
 https://github.com/richardgourley/pandas-one-pagers
+
 https://github.com/richardgourley/sql-one-pagers
+
 https://github.com/richardgourley/fortune-global-2000-in-2021
+
 https://github.com/richardgourley/pandas-find-excel-date-errors
+
 https://github.com/richardgourley/django-relationships-explained-in-postgresql
 
 
 ### Web Applications
 
 https://github.com/richardgourley/charity-organization-event-website
+
 https://github.com/richardgourley/email-template-translations-dashboard
+
 https://github.com/richardgourley/video-project-manager
+
 https://github.com/richardgourley/mini-quiz-app
 
 ### Other Tools and Plugins
 
 https://github.com/richardgourley/thread-my-soup
+
 https://github.com/richardgourley/business-document-app
+
 https://github.com/richardgourley/research-info-filter-tool
+
 https://github.com/richardgourley/premiership-winners-filter-plugin
+
 https://github.com/richardgourley/Video-projects-showcase-plugin-with-bespoke-dashboard-page
 
 ---
