@@ -6,10 +6,61 @@
 
 **Hello! I am a Data Analyst and former backend web developer based in Barcelona.**
 
-- 🔭 I’m currently working on data preparation, data modeling, data visualization and managing data assets using **PowerBI, Python and Pandas**.
-- 🌱 I’m currently learning about Apache Spark, Data Warehousing, Data Bricks, Data Lakes and cloud services.
+**Here are the tools I have experience with.  I feel comfortable working with the tools below, but I'm a humble guy and I still have lots to learn with all of them:**
 
-- 😄 I've previously worked on  database driven web applications and website dashboard management systems using Python and Django, PHP and .NET.
+PowerBI
+  - Certified
+  - Comfortable with DAX and PowerQuery
+  - Comfortable with data preparation - profiling data, merge, append, pivoting tables, transposing, replacing values, (all join types)
+  - Comfortable with star schema and snowflake schema modeling
+  - Comfortable with incremental refresh
+  - Good knowledge of DirectQuery and Import mode
+  - Comfortable with visualizations (including forecasting, QuickInsights, Q&A)
+
+Django
+  - Experience in creating bespoke apps and dashboards
+  - Work with Bootstrap for effective simple grid based front-end sites based on Django ORM models
+  - Comfortable creating effective login systems
+  - Comfortable with Django forms
+
+Pandas
+  - Comfortable with dataframes
+  - Comfortable with creating visualizations
+
+- Cloud 
+  - Web applications
+  - Synapse Analytics and Synapse Studio
+  - SQL pools
+  - Apache Spark 
+  - Setting up resource groups
+  - Setting up SQL and NoSQL databases
+  - Setup datalake gen2
+  - Ingestion pipeline
+  - Solid cloud data fundamentals - when to use VM, SQL managed instance, NoSQL databases, table storage - setting resource
+    groups - setting up SQL database
+
+- SQL
+  - Very comfortable with all Data Query Language, groupby, joins, union, case, subqueries, correlated subqueries
+  - Very comfortable with aggregating data
+  - Reasonably proficient in Window functions
+  - Comfortable with DML and DDL
+  - Data warehouse design - star schema and snowflake schemas
+  - Experience with SQL Server, MySQL and PostgreSQL
+  
+Python
+  - Comfortable with Python
+  - As mentioned above, good with Django, Pandas
+  - Comfortable with plotly and matplotlib
+  - Learning PySpark
+  - BeautifulSoup, requests, openpyxl, selenium
+
+Previously:
+  - Javascript (little bit of VueJS)
+  - PHP
+  - C# and .NET
+  - Little Android development
+  - Other web tools - (Wordpress plugins, Shopify management and bespoke forms and systems)
+  - Simple websites with Bootstrap/ flexbox/ simple Javascript - unique web page designs...
 
 - 💬 Contact me regarding any data analyst or database projects you wish to collaborate on.
 - ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
