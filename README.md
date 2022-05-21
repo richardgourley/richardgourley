@@ -8,8 +8,8 @@
 
 **Here are the tools I have experience with.  I feel comfortable working with the tools below, but I'm a humble guy and I still have lots to learn with all of them:**
 
-PowerBI
-  - Certified
+**PowerBI**
+  - Microsoft certified Data Analyst
   - Comfortable with DAX and PowerQuery
   - Comfortable with data preparation - profiling data, merge, append, pivoting tables, transposing, replacing values, (all join types)
   - Comfortable with star schema and snowflake schema modeling
@@ -17,17 +17,32 @@ PowerBI
   - Good knowledge of DirectQuery and Import mode
   - Comfortable with visualizations (including forecasting, QuickInsights, Q&A)
 
-Django
+**SQL**
+  - Very comfortable with all Data Query Language, groupby, joins, union, case, subqueries, correlated subqueries
+  - Very comfortable with aggregating data
+  - Reasonably proficient in Window functions
+  - Comfortable with DML and DDL
+  - Data warehouse design - star schema and snowflake schemas
+  - Experience with SQL Server, MySQL and PostgreSQL
+
+**Pandas**
+  - Comfortable with dataframes
+  - Comfortable with creating visualizations
+
+**Django**
   - Experience in creating bespoke apps and dashboards
   - Work with Bootstrap for effective simple grid based front-end sites based on Django ORM models
   - Comfortable creating effective login systems
   - Comfortable with Django forms
+  
+**Python**
+  - Comfortable with Python
+  - As mentioned above, good with Django, Pandas
+  - Comfortable with plotly and matplotlib
+  - Learning PySpark
+  - BeautifulSoup, requests, openpyxl, selenium
 
-Pandas
-  - Comfortable with dataframes
-  - Comfortable with creating visualizations
-
-- Cloud 
+**Cloud**
   - Web applications
   - Synapse Analytics and Synapse Studio
   - SQL pools
@@ -39,22 +54,7 @@ Pandas
   - Solid cloud data fundamentals - when to use VM, SQL managed instance, NoSQL databases, table storage - setting resource
     groups - setting up SQL database
 
-- SQL
-  - Very comfortable with all Data Query Language, groupby, joins, union, case, subqueries, correlated subqueries
-  - Very comfortable with aggregating data
-  - Reasonably proficient in Window functions
-  - Comfortable with DML and DDL
-  - Data warehouse design - star schema and snowflake schemas
-  - Experience with SQL Server, MySQL and PostgreSQL
-  
-Python
-  - Comfortable with Python
-  - As mentioned above, good with Django, Pandas
-  - Comfortable with plotly and matplotlib
-  - Learning PySpark
-  - BeautifulSoup, requests, openpyxl, selenium
-
-Previously:
+**Previously:**
   - Javascript (little bit of VueJS)
   - PHP
   - C# and .NET
