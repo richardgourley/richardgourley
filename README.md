@@ -4,65 +4,18 @@
 
 ### :man_technologist: About Me :
 
-**Hello! I am a Data Analyst and former backend web developer based in Barcelona.**
+**Hello! I am a certified Data Analyst and former backend web developer based in Barcelona.**
 
-**Here are the tools I have experience with.  I feel comfortable working with the tools below, but I'm a humble guy and I still have lots to learn with all of them:**
+- 🔭 I'm currently working with PowerBI, SQL, Python and Pandas in preparing, modeling and visualizing data.
+- 🔭 I regularly use and am proficient with PowerBI, SQL, Python, Django
+- 🔭 I've created numerous web applications, from simple static sites to bespoke dashboard and login systems using Django, PHP, .NET, MySQL, Bootstrap and Javascript.
+- 
+- 😄 I love working with data and databases.
+- 
+- 🌱 I'm currently becoming proficient with DAX, Pandas and Apache Spark.
+- 🌱 I’m currently learning Azure Synapse Analytics and learning about data lakes. 
 
-**PowerBI**
-  - Microsoft certified Data Analyst
-  - Comfortable with DAX and PowerQuery
-  - Comfortable with data preparation - profiling data, merge, append, pivoting tables, transposing, replacing values, (all join types)
-  - Comfortable with star schema and snowflake schema modeling
-  - Comfortable with incremental refresh
-  - Good knowledge of DirectQuery and Import mode
-  - Comfortable with visualizations (including forecasting, QuickInsights, Q&A)
-
-**SQL**
-  - Very comfortable with all Data Query Language, groupby, joins, union, case, subqueries, correlated subqueries
-  - Very comfortable with aggregating data
-  - Reasonably proficient in Window functions
-  - Comfortable with DML and DDL
-  - Data warehouse design - star schema and snowflake schemas
-  - Experience with SQL Server, MySQL and PostgreSQL
-
-**Pandas**
-  - Comfortable with dataframes
-  - Comfortable with creating visualizations
-
-**Django**
-  - Experience in creating bespoke apps and dashboards
-  - Work with Bootstrap for effective simple grid based front-end sites based on Django ORM models
-  - Comfortable creating effective login systems
-  - Comfortable with Django forms
-  
-**Python**
-  - Comfortable with Python
-  - As mentioned above, good with Django, Pandas
-  - Comfortable with plotly and matplotlib
-  - Learning PySpark
-  - BeautifulSoup, requests, openpyxl, selenium
-
-**Cloud**
-  - Web applications
-  - Synapse Analytics and Synapse Studio
-  - SQL pools
-  - Apache Spark 
-  - Setting up resource groups
-  - Setting up SQL and NoSQL databases
-  - Setup datalake gen2
-  - Ingestion pipeline
-  - Solid cloud data fundamentals - when to use VM, SQL managed instance, NoSQL databases, table storage - setting resource
-    groups - setting up SQL database
-
-**Previously:**
-  - Javascript (little bit of VueJS)
-  - PHP
-  - C# and .NET
-  - Little Android development
-  - Other web tools - (Wordpress plugins, Shopify management and bespoke forms and systems)
-  - Simple websites with Bootstrap/ flexbox/ simple Javascript - unique web page designs...
-
-- 💬 Contact me regarding any data analyst or database projects you wish to collaborate on.
+- 📫 How to reach me: Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me.
 - ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
 
 ---
