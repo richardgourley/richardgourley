@@ -7,14 +7,11 @@
 **Hello! I am a certified Data Analyst and former backend web developer based in Barcelona.**
 
 - 🔭 I'm currently working with PowerBI, SQL, Python and Pandas in preparing, modeling and visualizing data.
-- 🔭 I regularly use and am proficient with PowerBI, SQL, Python, Django
-- 🔭 I've created numerous web applications, from simple static sites to bespoke dashboard and login systems using Django, PHP, .NET, MySQL, Bootstrap and Javascript.
-- 
-- 😄 I love working with data and databases.
-- 
-- 🌱 I'm currently becoming proficient with DAX, Pandas and Apache Spark.
+- 🔭 I regularly use and am proficient with PowerBI, SQL, Python and Django
+- 🌱 I'm currently becoming proficient with DAX, Pandas and Apache Spark. 
 - 🌱 I’m currently learning Azure Synapse Analytics and learning about data lakes. 
-
+- 🔭 I've created numerous web applications, from simple static sites to bespoke dashboard and login systems using Django, PHP, .NET, MySQL, Bootstrap and Javascript.
+- 😄 I love working with data and databases.
 - 📫 How to reach me: Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me.
 - ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
 
