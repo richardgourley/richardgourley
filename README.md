@@ -31,10 +31,11 @@
 - As well as **PowerBI and SQL Server**, I use and have experience with:
 
 <div>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
