@@ -30,11 +30,13 @@
 
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="40" height="40"/>&nbsp;
+</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
+  
 
 ### :hammer_and_wrench: Previous Tools :
 
