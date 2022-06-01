@@ -26,9 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Current Languages and Tools :
-
-- As well as **PowerBI and SQL Server**, I use and have experience with:
+### :hammer_and_wrench: Tools and Languages :
 
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
@@ -38,9 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Tools I have previously used :
-
-- I have used a variety of different tools in creating database driven web applications:
+### :hammer_and_wrench: Previous Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
