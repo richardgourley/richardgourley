@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
 ---
-
-### :man_technologist: About Me :
-
-**Hello! I am a certified Data Analyst and backend web developer based in Barcelona.**
+### Hello! I am a certified Data Analyst and backend web developer based in Barcelona.
 
 - I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks in preparing, modeling and visualizing data for analytical reporting for the ecommerce side of businesses. 
 - I often work with Django and Python, my framework of choice - but I have previous experience in backend projects with PHP, .NET and C# and most projects usually require a touch of Javascript!
