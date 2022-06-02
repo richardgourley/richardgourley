@@ -4,15 +4,12 @@
 
 ### :man_technologist: About Me :
 
-**Hello! I am a certified Data Analyst and former backend web developer based in Barcelona.**
+**Hello! I am a certified Data Analyst and backend web developer based in Barcelona.**
 
-- 🔭 I'm currently working with PowerBI, SQL, Python and Pandas in preparing, modeling and visualizing data.
-- 🔭 I regularly use and am proficient with PowerBI, SQL, Python and Django
-- 🌱 I'm currently becoming proficient with DAX, Pandas and Apache Spark. 
-- 🌱 I’m currently learning Azure Synapse Analytics and learning about data lakes. 
-- 🔭 I've created numerous web applications, from simple static sites to bespoke dashboard and login systems using Django, PHP, .NET, MySQL, Bootstrap and Javascript.
+- I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks in preparing, modeling and visualizing data for analytical reporting for the ecommerce side of businesses. 
+- I often work with Django and Python, my framework of choice - but I have previous experience in backend projects with PHP, .NET and C# and most projects usually require a touch of Javascript!
 
-
+- 🌱 I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
 - 📫 How to reach me: Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me.
 - ⚡ Fact: I used to be a teacher. Some of my repos are made for helping others learn tech skills! I hope you find them useful!
 
@@ -21,7 +18,7 @@
 ### Certifications :
 
 <div>
-  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="130" width="130"/>
+  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
 </div>
 
 ---
