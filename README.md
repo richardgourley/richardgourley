@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
 ---
-### Hello! I am a certified Data Analyst and backend web developer based in Barcelona.
+### Hello! I am a certified Data Analyst and Django developer based in Barcelona.
 
-- I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks in preparing, modeling and visualizing data for analytical reporting for the ecommerce side of businesses. 
-- I often work with Django and Python, my framework of choice - but I have previous experience in backend projects with PHP, .NET and C# and most projects usually require a touch of Javascript!
+- I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks for an ecommerce company.
+- I often work with Python Django - my framework of choice! I have also built enterprise websites with PHP, C#/.NET and Javascript
 
 - 🌱 I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
 - 📫 How to reach me: Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me.
