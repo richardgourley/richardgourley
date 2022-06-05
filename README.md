@@ -2,7 +2,7 @@
 ### Hi there! 👋 I'm a certified Data Analyst and Django developer based in Barcelona.
 
 - I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks for an ecommerce company.
-- I derive insights and produce reports via an ETL process with Pandas into a SQL Server database, followed by modeling and visualizations done in PowerBI.
+- I derive insights and produce reports via an ETL process with Pandas into a SQL Server database, followed by modeling and visualizations in PowerBI.
 - I frequently work with Python Django and PHP. I have also built enterprise web applications with PHP, C#/.NET and Javascript.
 - I currently manage, maintain and develop the online store of the ecommerce company.
 
