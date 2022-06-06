@@ -13,14 +13,6 @@
 
 ---
 
-### Certifications :
-
-<div>
-  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
-</div>
-
----
-
 ### :hammer_and_wrench: Tools and Languages :
 
 <div>
@@ -42,6 +34,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
+</div>
+
+---
+
+### Certifications :
+
+<div>
+  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
 </div>
 
 ---
