@@ -1,6 +1,6 @@
 
 ### Hi there! 👋 
-### I'm a Data Analyst and web developer based in Barcelona.
+### I'm a Data Analyst and Web Developer based in Barcelona.
 
 - I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks for an ecommerce company.
 - I create ETL processes with Python and Pandas into a SQL Server database. I model the data and create visualizations in PowerBI.
