@@ -37,7 +37,7 @@
 
 ---
 
-### Certifications :
+### Recent Certifications :
 
 <div>
   <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
