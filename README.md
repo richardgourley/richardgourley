@@ -3,13 +3,13 @@
 ### PowerBI Data Analyst, Barcelona
 
 **Current position (e-commerce business):**
-- 💾 I create data warehouses in SQL Server.
-- ✨ I create ETL processes using Python and Pandas.
-- ⛏️ I load, clean and transform data using PowerQuery.
+- 💾 I use SQL Server to create data warehouse tables.
+- ✨ I use Python and Pandas to create ETL processes that load analytics data into fact and dimension database tables.
+- ⛏️ I use PowerQuery to clean and transform the data.
 - ⭐ I create star and snowflake schemas in PowerBI.
-- 📊 I create visualizations in PowerBI.
-- 🕸️ I develop the company website as required.
-- 🎯 I create dashboard training videos for team members.
+- 📊 I use PowerBI to create visualizations, reports and dashboards to help the company derive insights.
+- 🕸️ I develop the company website as required -  bespoke pages, forms and systems.
+- 🎯 I create training videos for team members to manage website content.
 
 **Recently:**
 - 🏆 I passed the Microsoft certified PowerBI Data Analyst associate examination.
@@ -26,7 +26,7 @@
 
 **Previous Life:**
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. 
-- ⚡ Check out some of my repos if you are learning Python, Django, Pandas and SQL...
+- ⚡ Check out some of my repos and one pager guides if you are learning Python, Django, Pandas and SQL...
 
 ---
 
