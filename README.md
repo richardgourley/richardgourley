@@ -28,7 +28,7 @@
 
 **Previous Life:**
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. 
-- ⚡ Check out some of my repos and one pager guides if you are learning Python, Django, Pandas and SQL...
+- ⚡ Check out some of my repos and one pager guides below if you are learning Python, Django, Pandas, Data Analysis and SQL...
 
 ---
 
@@ -69,7 +69,8 @@
 
 ![](https://komarev.com/ghpvc/?username=richardgourley&color=green)
 
-**REPOS**
+### REPOS:
+
 **Django**
 
 <a href="https://github.com/richardgourley/charity-organization-event-website">Charity Event Organization Website</a>
