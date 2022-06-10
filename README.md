@@ -2,12 +2,14 @@
 ## Hi, I'm Richard! 👋 
 ### PowerBI Data Analyst, Barcelona
 
-**Current position (e-commerce business):**
-- 💾 I use SQL Server to create data warehouse tables.
-- ✨ I use Python and Pandas to create ETL processes that load analytics data into fact and dimension database tables.
-- ⛏️ I use PowerQuery to clean and transform the data.
-- ⭐ I create star and snowflake schemas in PowerBI.
-- 📊 I use PowerBI to create visualizations, reports and dashboards to help the company derive insights.
+**Currently (e-commerce business DA role):**
+- 💾 SQL Server - to create data warehouse tables.
+- ✨ Python and Pandas - to create ETL processes that load analytics data into fact and dimension database tables.
+- ⛏️ PowerQuery - to clean and transform the data.
+- ⭐ PowerBI - to create star and snowflake schema models.
+- 📊 PowerBI  - to create visualizations, reports and dashboards to help the company derive insights.
+
+**Additional skills:**
 - 🕸️ I develop the company website as required -  bespoke pages, forms and systems.
 - 🎯 I create training videos for team members to manage website content.
 
