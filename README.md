@@ -1,14 +1,40 @@
 
-### Hi there! 👋 
-### I'm a Data Analyst and Web Developer based in Barcelona.
+## Hi, I'm Richard! 👋 
+### PowerBI Data Analyst, Barcelona
 
-- I'm currently working with PowerBI, SQL Server, Python, Pandas and Jupyter Notebooks for an ecommerce company.
-- I create ETL processes with Python and Pandas into a SQL Server database. I model the data and create visualizations in PowerBI.
-- I currently manage, maintain and develop the online store of the ecommerce company.
-- I frequently work with Python Django.  I sometimes work with PHP. I have also built enterprise web applications with C#/.NET and Javascript.
+**Current position (e-commerce business):**
+- 💾 I create data warehouses in SQL Server.
+- ✨ I create ETL processes using Python and Pandas.
+- ⛏️ I load, clean and transform data using PowerQuery.
+- ⭐ I create star and snowflake schemas in PowerBI.
+- 📊 I create visualizations in PowerBI.
+- 🕸️ I develop the company website as required.
+- 🎯 I create dashboard training videos for team members.
 
-- 📫 How to reach me: Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me.
-- 🌱 I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
+**Recently:**
+- 🏆 I passed the Microsoft certified PowerBI Data Analyst associate examination.
+
+**Previously:**
+- ⏳ I have 6+ years MVT/ MVC web development experience.
+- 💻 I have created enterprise web applications in Django, PHP and C#/.NET
+
+**Learning:**
+- ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
+
+**Get in touch:**
+- 📫 Visit https://dynamicwebsites.eu.pythonanywhere.com to learn more about me and get in touch.
+
+**Previous Life:**
+- 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. 
+- ⚡ Check out some of my repos if you are learning Python, Django, Pandas and SQL...
+
+---
+
+### Recent Certifications :
+
+<div>
+  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
+</div>
 
 ---
 
@@ -37,14 +63,6 @@
 
 ---
 
-### Recent Certifications :
-
-<div>
-  <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
-</div>
-
----
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richardgourley)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=richardgourley&color=green)
@@ -61,6 +79,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 👨‍💻
+- 📖
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
