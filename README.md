@@ -3,11 +3,11 @@
 ### PowerBI Data Analyst, Barcelona
 
 **Currently (e-commerce business - mixed data/ developer role):**
-- 💾 Creation of data warehouse database and tables with SQL Server.
-- ✨ Creation of ETL processes using Python and Pandas that load analytics data into fact and dimension database tables.
-- ⛏️ Cleaning, transforming and loading of data using PowerQuery.
-- ⭐ Creation of star and snowflake schema models in PowerBI.
-- 📊 Creation of visualizations, reports and dashboards in PowerBI, to help the company derive insights.
+- 💾 Creation of data warehouse database and tables using **SQL Serve**.
+- ✨ Creation of ETL processes using **Python and Pandas** that load analytics data into fact and dimension database tables.
+- ⛏️ Cleaning, transforming and loading of data using **PowerQuery**.
+- ⭐ Creation of star and snowflake schema models in **PowerBI**.
+- 📊 Creation of visualizations, reports and dashboards in **PowerBI**, to help the company derive insights.
 - 🕸️ Development and maintenance of the company website as required -  bespoke pages, forms and systems.
 - 🎯 Creation of training videos for team members to manage website content dashboard.
 
