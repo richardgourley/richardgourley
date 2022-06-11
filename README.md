@@ -3,19 +3,23 @@
 ### PowerBI Data Analyst, Barcelona
 
 **Currently (e-commerce business - mixed data/ developer role):**
-- 💾 SQL Server - to create data warehouse tables.
-- ✨ Python and Pandas - to create ETL processes that load analytics data into fact and dimension database tables.
-- ⛏️ PowerQuery - to clean and transform the data.
-- ⭐ PowerBI - to create star and snowflake schema models.
-- 📊 PowerBI  - to create visualizations, reports and dashboards to help the company derive insights.
-- 🕸️ I develop the company website as required -  bespoke pages, forms and systems.
-- 🎯 I create training videos for team members to manage website content.
+- 💾 Creation of data warehouse database and tables with SQL Server.
+- ✨ Creation of ETL processes using Python and Pandas that load analytics data into fact and dimension database tables.
+- ⛏️ Cleaning, transforming and loading of data using PowerQuery.
+- ⭐ Creation of star and snowflake schema models in PowerBI.
+- 📊 Creation of visualizations, reports and dashboards in PowerBI, to help the company derive insights.
+- 🕸️ Development and maintenance of the company website as required -  bespoke pages, forms and systems.
+- 🎯 Creation of training videos for team members to manage website content dashboard.
 
 **Other:**
 - 🏆 I recently passed the Microsoft certified PowerBI Data Analyst associate examination.
 - ⏳ I have 6+ years MVT/ MVC web development experience.
 - 💻 I have created enterprise web applications in Django, PHP and C#/.NET
+
+
 - ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
+
+
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. 
 - ⚡ Check out some of my repos and one pager guides below if you are learning Python, Django, Pandas, Data Analysis and SQL...
 
