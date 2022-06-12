@@ -13,8 +13,9 @@
 
 **Other:**
 - 🏆 I recently passed the Microsoft certified PowerBI Data Analyst associate examination.
-- ⏳ I have 6+ years MVT/ MVC web development experience.
-- 💻 I have created enterprise web applications in Django, PHP and C#/.NET
+- ⏳ I have 6+ years MVT/ MVC web development experience. (Python, Django and C# frameworks.)
+- 💻 I have created enterprise web applications in Django, PHP and C#/.NET.
+- ⛏️ I have created and used tools in Python.
 
 
 - ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
