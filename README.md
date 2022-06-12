@@ -1,6 +1,6 @@
 
 ## Hi, I'm Richard! 👋 
-### PowerBI Data Analyst, Barcelona
+### Data Analyst, Barcelona
 
 **Currently (e-commerce business - mixed data/ developer role):**
 - 💾 Creation of data warehouse database and tables using **SQL Server**.
