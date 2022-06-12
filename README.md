@@ -4,10 +4,10 @@
 
 **Currently (e-commerce business - mixed data/ developer role):**
 - 💾 Creation of data warehouse database and tables using **SQL Server**.
-- ✨ Creation of ETL processes using **Python and Pandas** that load analytics data into fact and dimension database tables.
+- ✨ Creation of ETL processes using **Python and Pandas**.
 - ⛏️ Cleaning, transforming and loading of data using **PowerQuery**.
 - ⭐ Creation of star and snowflake schema models in **PowerBI**.
-- 📊 Creation of visualizations, reports and dashboards in **PowerBI**, to help the company derive insights.
+- 📊 Creation of visualizations, reports and dashboards in **PowerBI**.
 - 🕸️ Development and maintenance of the company website as required -  bespoke pages, forms and systems.
 - 🎯 Creation of training videos for team members to manage website content dashboard.
 
@@ -19,7 +19,7 @@
 - ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
 ---
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. 
-- ⚡ Check out some of my repos and one pager guides below if you are learning Python, Django, Pandas, Data Analysis and SQL...
+- ⚡ Check out some of my repos if you are learning Python, Django, Pandas, Data Analysis and SQL...
 
 ### REPOS:
 
