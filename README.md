@@ -2,7 +2,7 @@
 ## Hi, I'm Richard! 👋 
 ### Data Analyst, Barcelona
 
-**Currently (e-commerce business - mixed data/ developer role):**
+**Currently (e-commerce business - mixed data analyst/ web developer role):**
 - 💾 Creation of data warehouse database and tables using **SQL Server**.
 - ✨ Creation of ETL processes using **Python and Pandas**.
 - ⛏️ Cleaning, transforming and loading of data using **PowerQuery**.
