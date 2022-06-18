@@ -102,7 +102,6 @@ Here are some ideas to get you started:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
--->
 
 ❤️ PowerBI ❤️ SQL ❤️ Python ❤️ Django ❤️ Data / Databases / Database Driven applications
 
@@ -119,3 +118,5 @@ Here are some ideas to get you started:
 - ⏳ I have 6+ years MVT/ MVC web development experience. (Python Django, C# .NET and PHP)
 - ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. If you are learning Python, Django, Pandas, Data Analysis and SQL, check out some of my repos...
+
+-->
