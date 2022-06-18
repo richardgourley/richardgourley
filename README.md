@@ -29,7 +29,7 @@ My repos are based on these skills and tools below!
   - Business tools - excel document applications.
   - Research tools - using Beautiful Soup.
 
-**Python and Pandas - 
+**Python and Pandas** 
   - Creating visuals - plotly and matplotlib.
   - Using Python as ETL tool - transform raw analytics data into data marts.
 
