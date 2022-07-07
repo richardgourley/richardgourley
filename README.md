@@ -9,48 +9,35 @@
 
 ⛏️ **COMMON TOOLS:**
 
-I use these tools frequently:
+I use these tools daily:
 
-- PowerBI
-- SQL Server
-- Python
-- Django
+- **PowerBI**
+- **SQL Server**
+- **Python**
+- **Django**
 
 ⛏️ **TOOLS I HAVE ALSO USED:**
 
-- MySQL
-- PostgreSQL
-- Javascript
-- C# and ASP.NET
-- PHP
+- **MySQL**
+- **PostgreSQL**
+- **Javascript**
+- **C# and ASP.NET**
+- **PHP**
 
 🌱 **CURRENTLY LEARNING:**
 
-- Azure Synapse Analytics
-- Pyspark
-- Azure Data Factory
+- **Azure Synapse Analytics**
+- **Pyspark**
+- **Azure Data Factory**
 
 📖 **GITHUB PROJECTS**
 
 My repos are based on these skills and tools below! I hope you find them useful.
 
-**SQL and T-SQL**
-  - Data Warehousing
-  - Data Analysis with SQL
-  - Data Query Language
-  
-**Web Development**
-  - Django web applications - bespoke dashboards and database models.
-  - PHP & Javascript applications.
-  
-**Python**
-  - Business Document Applications.
-  - openpyxl projects - using Python with Excel.
-  
-**Pandas** 
-  - Python and Pandas as an ETL tool.
-  - Data Analysis projects.
-  - Plotly and Matplotlib for data visualization.
+- **SQL and T-SQL** (Tutorials, data warehousing, data analysis, DDL, DML and DQL)
+- **Web Development** - (Python Django - dashboards, login systems, PHP, JS)
+- **Python** (openpyxl, Beautiful Soup, numpy, ETL tools)
+- **Pandas** (Data Analysis projects, plotly, matplotlib)
 ---
 
 ### Recent Certifications :
