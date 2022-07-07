@@ -5,45 +5,49 @@
 **General**
 - Microsoft certified Data Analyst
 - Previously 6+ years web development experience (MVC, MVT)
-- In my current role perform both Data Analysis and some web development
+- In my current role I perform both Data Analysis using PowerBI and SQL and web development for an ecommerce company.
 
-⛏️ **SKILLS AND PROJECTS**
+⛏️ **COMMON TOOLS:**
 
-My repos are based on these skills and tools below!
+I use these tools frequently:
 
 **PowerBI**
-  - Cleaning, transforming, loading data.
-  - Modeling data - star and snowflake schemas.
-  - Creating visualizations.
-  - Knowledge of workspaces, using direct query or import mode, row level security, paginated reports, large dataset settings,
-    incremental refresh, DAX.
-  - Reports with buttons, bookmarks, tooltips, drillthough pages, slicers etc.
-  - Understanding of DataFlows.
+**SQL**
+**T-SQL**
+**Django**
+
+⛏️ **TOOLS I HAVE ALSO USED:**
+
+**MySQL**
+**PostgreSQL**
+**Javascript**
+**C# and ASP.NET**
+**PHP**
+
+🌱 **CURRENTLY LEARNING:**
+
+**Azure Synapse Analytics**
+**Pyspark**
+**Azure Data Factory**
+
+📖 **GITHUB PROJECTS**
+
+My repos are based on these skills and tools below! I hope you find them useful.
 
 **SQL and T-SQL**
-  - DQL, DDL and DML.
-  - Experience with MySQL and SQL Server.
-  - Use SQL Server daily.
-
-**Python**
-  - Business tools - excel document applications.
-  - Research tools - using Beautiful Soup.
-
-**Python and Pandas** 
-  - Creating visuals - plotly and matplotlib.
-  - Using Python as ETL tool - transform raw analytics data into data marts.
-
+  - Data Warehousing
+  - Data Analysis with SQL
+  - Data Query Language
 **Web Development**
   - Django web applications - bespoke dashboards and database models.
-  - C# .NET web applications - language learning applications.
   - PHP & Javascript applications.
-
-**Azure**
-  - Good knowledge of Azure Data Fundamentals.
-  - Know when to use Managed SQL Server, Azure SQL, VM (lift and shift).
-  - Learning Azure Synapse Analytics, SQL pools and using PySpark to query and connect Azure Data Lake Storage.
-  - Learning Azure Data Factory as a new cloud ETL tool.
-
+**Python**
+  - Business Document Applications.
+  - openpyxl projects - using Python with Excel.
+**Pandas** 
+  - Python and Pandas as an ETL tool.
+  - Data Analysis projects.
+  - Plotly and Matplotlib for data visualization.
 ---
 
 ### Recent Certifications :
