@@ -44,7 +44,7 @@ My repos are based on these skills and tools below! I hope you find them useful.
 
 <div>
   <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png"  title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
-  <a src="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url">Certified link</a>
+  <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url">Certified Badge Link</a>
 </div>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a41f24e-eb2a-4495-a4fc-77fe53996811" data-share-badge-host="https://www.credly.com"></div>
