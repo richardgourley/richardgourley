@@ -43,7 +43,7 @@ My repos are based on these skills and tools below! I hope you find them useful.
 ### Recent Certifications :
 
 <div>
-  <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url">
+  <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url" target="_blank">
     <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png" title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
   </a>
 </div>
