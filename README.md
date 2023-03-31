@@ -3,32 +3,47 @@
 ### Data Analyst, Barcelona
 
 **General**
-- Microsoft certified Data Analyst
-- Previously 6+ years web development experience (MVC, MVT)
-- In my current role I perform both Data Analysis using PowerBI and SQL and web development for an ecommerce company.
+- I was a web dev for about 5 years moving gently from PHP, to C# and finally Python Django.
+- I enjoyed the back-end side the most, especially working with the database and realized that planet data was the one for me.
+- I became MS PowerBI certified and studied Azure Data Fundamentals.
+- I worked with PowerBI and SQL Server for a few years.
+- I then moved on to working more with cloud solutions - AWS Athena and Quicksight and Google BigQuery.
+- I have a keen interest in SQL and RDBMSs, especially PostgreSQL and enjoy working with open source software and getting to grips with Linux Mint and Ubuntu.
 
-⛏️ **COMMON TOOLS:**
 
-I use these tools daily:
+⛏️ **DAILY TOOLSET:**
 
+I use these tools every week (in order of confidence):
+
+- **PostgreSQL**
 - **PowerBI**
-- **SQL Server**
+- **Quicksight**
+- **AWS Athena, S3, RDS PostgreSQL**
+- **GCP Big Query**
+- **Linux**
+
+⛏️ **TOOLS I STILL LOVE AND USE FROM TIME TO TIME:**
+
 - **Python**
 - **Django**
-
-⛏️ **TOOLS I HAVE ALSO USED:**
-
+- **SQL Server**
 - **MySQL**
-- **PostgreSQL**
-- **Javascript**
+
+⛏️ **TOOLS I USED TO USE AND MIGHT USE AGAIN!**
+
 - **C# and ASP.NET**
+- **Javascript**
 - **PHP**
 
-🌱 **CURRENTLY LEARNING:**
+🌱 **CONSTANTLY LISTENING TO PODCASTS AND LEARNING ABOUT:**
 
-- **Azure Synapse Analytics**
-- **Pyspark**
-- **Azure Data Factory**
+- **Linux**
+- **PL/PGSQL**
+- **Normalization and de-normalization**
+- **PostgreSQL roles and DBA**
+- **Amazon Redshift**
+- **Google Big Query**
+
 
 📖 **GITHUB PROJECTS**
 
