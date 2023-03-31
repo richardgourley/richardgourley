@@ -45,16 +45,6 @@ I use these tools every week (in order of confidence):
 - **Google Big Query**
 
 
-📖 **GITHUB PROJECTS**
-
-My repos are based on these skills and tools below! I hope you find them useful.
-
-- **SQL and T-SQL** (Tutorials, data warehousing, data analysis, DDL, DML and DQL)
-- **Web Development** - (Python Django - dashboards, login systems, PHP, JS)
-- **Python** (openpyxl, Beautiful Soup, numpy, ETL tools)
-- **Pandas** (Data Analysis projects, plotly, matplotlib)
----
-
 ### Recent Certifications :
 
 <div>
