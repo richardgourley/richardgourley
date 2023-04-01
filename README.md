@@ -1,58 +1,86 @@
-
-## Hi, I'm Richard! 👋 
-### Data Analyst, Barcelona
-
-Hello, world! I'm a data enthusiast working with SQL, RDBMSs, cloud technology, columnar databases, data lakes and BI tools.
-
-I entered into the data world 🌎 from a back-end web dev and programming background.
-
-
-
-⛏️ **Always Use:**
-
-**I use these tools every week:**
-
-- PostgreSQL
-- PowerBI
-- Quicksight
-- AWS Athena, S3, RDS PostgreSQL
-- GCP Big Query
-- Linux
-
-⛏️ **Regularly Use:**
-
-- Python
-- Django
-- SQL Server
-- MySQL
-
-⛏️ **Formerly Used:**
-
-- C# and ASP.NET
-- Javascript
-- PHP
-
-🌱 **CONSTANTLY LISTENING TO PODCASTS AND LEARNING ABOUT:**
-
-- Data Engineering 🔧
-- Columnar Analytic Databases 🗄️
-- Cloud ☁️
-- Linux 🖥️
-
-
-### Recent Certifications :
-
-<div>
-  <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url" target="_blank">
-    <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png" title="Data Analyst certficate" alt="Data Analyst certficate" heigh="110" width="110"/>
-  </a>
+<div align="center">
+  <h2>Hello! I'm Richard! 👋 </h2>
+  <h3>Data Analyst: Barcelona</h3>
 </div>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+👨 **About Me**
+- I'm a data professional working with SQL, RDBMSs, cloud data stores and BI visualization tools.
+- I entered into the data world from a back-end web development and programming background.
+- I enjoy listening to data engineering podcasts, learning Linux and walking for miles beside the sea!
+- 📫 How to reach me: Check out my website or email me! (Links left/ above) 
+
+<div align="center"><br>
+<h4>Current Stack:</h4>
+
+⭐ PostgreSQL  ⭐ Linux
+⭐ Amazon Quicksight ⭐  AWS: Athena, RDS PostgreSQL
+  
+</div>
+
+<div align="center">
+<h4>Previous Projects:</h4>
+⭐ PowerBI
+⭐ SQL Server ⭐ SSAS ⭐ SSIS
+</div>
+  
+<div align="center">
+<h4>Web Development Tools:</h4>
+:computer: Python Django :computer: Amazon LightSail
+:computer: C# - ASP.NET :computer: Azure App Service
+:computer: PHP :computer: JS
+  <br><br>
+</div>
+
+---
+
+👨‍🎓 **Previous Learning Paths**
+- 🏆 Azure Data Fundamentals, Microsoft Certified PowerBI Data Analyst
+- ☁️ AWS - Getting Started with Redshift, Amazon Aurora PostgreSQL and Amazon RDS PostgreSQL
+- ☁️ Google Cloud - Insights From Data With BigQuery, Understanding Google Cloud Security and Operations
+- 📊 Metabase + Tableau
+- 🏆 Scientific Computing With Python
+  
+</div>
+
+<div align="center">
+  <br><br>
+  <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png" title="Data Analyst certficate" alt="Data Analyst certficate" heigh="90" width="90"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/e350c9dc-a7ab-464c-831f-684cbaba4d1f/public_url" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/azure-data-fundamentals-600x600.png" title="Data Analyst certficate" alt="Azure Data Fundamentals Certificate" heigh="90" width="90"/>
+  </a>
+  
+  <a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_bigquery.png" title="Big Query Badge" alt="Big Query Badge" heigh="90" width="90"/>
+  </a>
+  
+  <a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_security.png" title="Google Cloud Security Badge" alt="Google Operations and Cloud Security" heigh="90" width="90"/>
+  </a>
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="90" height="90"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="90" height="90"/>
+  
+
+  
+  
+</div>
 
 
 ---
 
-### :hammer_and_wrench: Tools and Languages :
+![](https://komarev.com/ghpvc/?username=richardgourley&color=green)
+
+<!--
 
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
@@ -65,6 +93,10 @@ I entered into the data world 🌎 from a back-end web dev and programming backg
 
 ### :hammer_and_wrench: Other Tools :
 
+https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="90" height="90"/>&nbsp;
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -75,11 +107,6 @@ I entered into the data world 🌎 from a back-end web dev and programming backg
 
 </div>
 
----
-
-![](https://komarev.com/ghpvc/?username=richardgourley&color=green)
-
-<!--
 **richardgourley/richardgourley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
