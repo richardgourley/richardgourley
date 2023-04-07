@@ -4,13 +4,12 @@
 </div>
 
 ### 👨 About Me
-- I'm a data professional working with SQL, RDBMSs, cloud data stores and BI visualization tools.
+- I'm a data professional working with SQL, various RDBMSs, cloud columnar databases, cloud data stores and BI visualization tools.
 - I entered into the data world from a back-end web development and programming background.
 - I love open source tech - Linux, Grafana, Metabase, Python libraries - Matplotlib etc. and PostgreSQL.
 - I enjoy the guitar, listening to data engineering podcasts and walking for miles beside the sea!
 
 - 📫 How to reach me: Check out my website or email me! (Links left/ above) 
-
 <div align="center"><br>
 <h4>Current Stack:</h4>
 
