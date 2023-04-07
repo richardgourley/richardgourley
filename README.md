@@ -1,43 +1,40 @@
 <div align="center">
-  <h2>Hello! I'm Richard! 👋 </h2>
-  <h3>Data Analyst: Barcelona</h3>
+  <h2>Hello everybody! I'm Richard! 👋 </h2>
+  <h3>I'm a Data Analyst based in Barcelona</h3>
 </div>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-👨 **About Me**
+### 👨 About Me
 - I'm a data professional working with SQL, RDBMSs, cloud data stores and BI visualization tools.
 - I entered into the data world from a back-end web development and programming background.
-- I enjoy listening to data engineering podcasts, learning Linux and walking for miles beside the sea!
+- I love open source tech - Linux, Grafana, Metabase, Python libraries - Matplotlib etc. and PostgreSQL.
+- I enjoy the guitar, listening to data engineering podcasts and walking for miles beside the sea!
+
 - 📫 How to reach me: Check out my website or email me! (Links left/ above) 
 
 <div align="center"><br>
 <h4>Current Stack:</h4>
 
-⭐ PostgreSQL  ⭐ Linux
-⭐ Amazon Quicksight ⭐  AWS: Athena, RDS PostgreSQL
-  
-</div>
+⭐ Amazon Quicksight ⭐  AWS: Athena, RDS ⭐ PostgreSQL  ⭐ Linux
 
-<div align="center">
 <h4>Previous Projects:</h4>
 ⭐ PowerBI
 ⭐ SQL Server ⭐ SSAS ⭐ SSIS
-</div>
-  
-<div align="center">
+
 <h4>Web Development Tools:</h4>
-:computer: Python Django :computer: Amazon LightSail
-:computer: C# - ASP.NET :computer: Azure App Service
-:computer: PHP :computer: JS
-  <br><br>
+🕸️ Python Django + NGinx + Gunicorn  + Amazon LightSail
+  <br>
+🕸️ C# - ASP.NET + Microsoft Azure App Service
+  <br>
+🕸️ PHP + Javascript (back in the day!)
+  <br>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <br><br>
+</div>
 
 👨‍🎓 **Previous Learning Paths**
 - 🏆 Azure Data Fundamentals, Microsoft Certified PowerBI Data Analyst
@@ -143,5 +140,9 @@ Here are some ideas to get you started:
 - ⏳ I have 6+ years MVT/ MVC web development experience. (Python Django, C# .NET and PHP)
 - ☁️ I’m currently learning Azure Synapse Analytics and how to query data lakes with SQL pools and Apache PySpark.
 - 👨‍🎓 FACT: I used to be a teacher before entering into the tech world!  I love helping people to learn. If you are learning Python, Django, Pandas, Data Analysis and SQL, check out some of my repos...
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 -->
