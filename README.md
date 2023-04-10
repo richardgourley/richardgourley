@@ -3,6 +3,11 @@
   <h3>I'm a Data Analyst based in Barcelona</h3>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320" height="160"/>
+  <br><br>
+</div>
+
 
 ### 👨 About Me
 - I'm a data professional working with SQL, various RDBMSs, cloud columnar databases, cloud data stores and BI visualization tools.
@@ -12,7 +17,9 @@
 
 - 📫 How to reach me: Check out my website or email me! (Links left/ above)
 
-<div align="center"><br>
+---
+
+<div align="center">
 <h4>Current Stack:</h4>
 
 ⭐ Amazon Quicksight ⭐  AWS: Athena, RDS ⭐ PostgreSQL  ⭐ Linux
@@ -32,10 +39,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-  <br><br>
-</div>
 
 👨‍🎓 **Previous Learning Paths**
 - 🏆 Azure Data Fundamentals, Microsoft Certified PowerBI Data Analyst
