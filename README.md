@@ -19,23 +19,21 @@
 
 ---
 
-<div align="center">
-<h4>Current Stack:</h4>
+### Current Stack:
 
 ⭐ Amazon Quicksight ⭐  AWS: Athena, RDS ⭐ PostgreSQL  ⭐ Linux
 
-<h4>Previous Projects:</h4>
+### Previous Projects:
 ⭐ PowerBI
+
 ⭐ SQL Server ⭐ SSAS ⭐ SSIS
 
-<h4>Web Development Tools:</h4>
+### Web Development Tools:
 🕸️ Python Django + NGinx + Gunicorn  + Amazon LightSail
-  <br>
+
 🕸️ C# - ASP.NET + Microsoft Azure App Service
-  <br>
+
 🕸️ PHP + Javascript (back in the day!)
-  <br>
-</div>
 
 ---
 
