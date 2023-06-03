@@ -1,54 +1,39 @@
-<div align="center">
-  <h2>Hello everybody! I'm Richard! 👋 </h2>
-  <h3>I'm a Data Analyst based in Barcelona</h3>
+<div>
+  <h2>Hi I'm Richard! 👋 </h2>
+  <h3>Data Analyst - Barcelona</h3>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="320" height="160"/>
-  <br><br>
-</div>
+**Skills and Experience**
+
+- Data Analysis 
+- Heavy SQL
+- BI Tools 
+- Relational Databases - row-store and columnar
+- Database design
+- Data Modeling
+- Some ETL experience
+- Full-stack web development.
 
 
-### 👨 About Me
-- I'm a data professional working with SQL, various RDBMSs, cloud columnar databases, cloud data stores and BI visualization tools.
-- I entered into the data world from a back-end web development and programming background.
-- I love open source tech - Linux, Grafana, Metabase, Python libraries - Matplotlib etc. and PostgreSQL.
-- I enjoy the guitar, listening to data engineering podcasts and walking for miles beside the sea!
+**Tools**
 
-- 📫 How to reach me: Check out my website or email me! (Links left/ above)
-
----
-
-### Current Stack:
-
-⭐ Amazon Quicksight ⭐  AWS: Athena, RDS ⭐ PostgreSQL  ⭐ Linux
-
-### Previous Projects:
-⭐ PowerBI
-
-⭐ SQL Server ⭐ SSAS ⭐ SSIS
-
-### Web Development Tools:
-🕸️ Python Django + NGinx + Gunicorn  + Amazon LightSail
-
-🕸️ C# - ASP.NET + Microsoft Azure App Service
-
-🕸️ PHP + Javascript (back in the day!)
-
----
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="AWS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"  title="GCP" alt="Oracle" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="AWS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
 
 
-👨‍🎓 **Previous Learning Paths**
-- 🏆 Azure Data Fundamentals, Microsoft Certified PowerBI Data Analyst
-- ☁️ AWS - Getting Started with Redshift, Amazon Aurora PostgreSQL and Amazon RDS PostgreSQL
-- ☁️ Google Cloud - Insights From Data With BigQuery, Understanding Google Cloud Security and Operations
-- 📊 Metabase + Tableau
-- 🏆 Scientific Computing With Python
   
-</div>
+---
 
-<div align="center">
-  <br><br>
+<div>
+  <br>
   <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url" target="_blank">
     <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png" title="Data Analyst certficate" alt="Data Analyst certficate" heigh="90" width="90"/>
   </a>
@@ -57,29 +42,18 @@
     <img src="https://github.com/richardgourley/richardgourley/blob/main/azure-data-fundamentals-600x600.png" title="Data Analyst certficate" alt="Azure Data Fundamentals Certificate" heigh="90" width="90"/>
   </a>
   
-  <a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
-    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_bigquery.png" title="Big Query Badge" alt="Big Query Badge" heigh="90" width="90"/>
-  </a>
-  
-  <a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
-    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_security.png" title="Google Cloud Security Badge" alt="Google Operations and Cloud Security" heigh="90" width="90"/>
-  </a>
-  
-   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="90" height="90"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="90" height="90"/>
-  
-
-  
-  
 </div>
 
-
----
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=richardgourley&color=green)
 
 <!--
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="40" height="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>
 
 <div>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
@@ -88,7 +62,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
 </div>
-  
+ 
+ADD SQL, POSTGRES, GCP, ORACLE, TABLEAU
 
 ### :hammer_and_wrench: Other Tools :
 
@@ -97,12 +72,21 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original-wor
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="90" height="90"/>&nbsp;
 
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="AWS" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+<a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_bigquery.png" title="Big Query Badge" alt="Big Query Badge" heigh="90" width="90"/>
+  </a>
+  
+  <a href="https://www.cloudskillsboost.google/public_profiles/9233e473-b53b-4cba-a912-51051e144fb3/badges/2935746" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/google_cloud_security.png" title="Google Cloud Security Badge" alt="Google Operations and Cloud Security" heigh="90" width="90"/>
+  </a>
 
 </div>
 
@@ -122,10 +106,7 @@ Here are some ideas to get you started:
 - 👨‍💻
 - 📖
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richardgourley)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title="Dot Net" alt="Dot Net" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 
 ❤️ PowerBI ❤️ SQL ❤️ Python ❤️ Django ❤️ Data / Databases / Database Driven applications
 
