@@ -39,9 +39,9 @@ BI: PowerBI, Tableau, Looker Data Studio
 
 CLOUD: GCP Big Query, Azure App Service, AWS Athena, AWS Glue, AWS LightSail
 
-SQL SERVER: SSAS, SSIS
+DATABASE: PL/pgSQL, T-SQL, PL/SQL, SSAS, SSIS
 
-LANGUAGES: PL/pgSQL, T-SQL, PL/SQL, Python, C#, PHP
+LANGUAGES: Python, C#, PHP
 
 ---
 
