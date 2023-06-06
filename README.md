@@ -10,11 +10,9 @@
 - Data Analysis 
 - Heavy SQL
 - BI Tools 
-- Relational Databases - row-store and columnar
-- Database design
-- Data Modeling
-- Some ETL experience
-- Batch Processing
+- Relational Databases - row-store and columnar, on-prem and cloud
+- Data Modeling, Database Design 
+- Some ETL and batch processing experience
 - Full-stack web development
 
 ---
