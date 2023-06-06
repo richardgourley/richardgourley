@@ -3,7 +3,9 @@
   <h3>Data Analyst - Barcelona</h3>
 </div>
 
-**Skills and Experience**
+---
+
+**Skills and Expertise**
 
 - Data Analysis 
 - Heavy SQL
@@ -12,8 +14,10 @@
 - Database design
 - Data Modeling
 - Some ETL experience
-- Full-stack web development.
+- Batch Processing
+- Full-stack web development
 
+---
 
 **Tools**
 
@@ -25,11 +29,20 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="AWS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
 
+---
 
-  
+⛏️ **Specific Tools:**
+
+BI: PowerBI, Tableau, Looker Data Studio
+
+CLOUD: GCP Big Query, Azure App Service, AWS Athena, AWS Glue, AWS LightSail
+
+SQL SERVER: SSAS, SSIS
+
+LANGUAGES: PL/pgSQL, T-SQL, PL/SQL, Python, C#, PHP
+
 ---
 
 <div>
