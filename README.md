@@ -3,9 +3,8 @@
   <h3>Data Analyst - Barcelona</h3>
 </div>
 
----
 
-**Skills and Expertise**
+**Core Skills**
 
 - Data Analysis 
 - Heavy SQL
@@ -35,7 +34,7 @@
 
 BI: PowerBI, Tableau, Looker Data Studio
 
-CLOUD: GCP Big Query, Azure App Service, AWS Athena, AWS Glue, AWS LightSail
+CLOUD: GCP Big Query, AWS Athena, AWS Glue, AWS LightSail, Azure Synapse Analytics
 
 DATABASE: PL/pgSQL, T-SQL, PL/SQL, SSAS, SSIS
 
