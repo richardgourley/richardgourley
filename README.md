@@ -1,51 +1,50 @@
 <div>
   <h2>Hi I'm Richard! 👋 </h2>
-  <h3>Data Analyst - Barcelona</h3>
+  <h3>Analytics Engineer</h3>
 </div>
 
 
-**Core Skills**
-
-- Data Analysis 
-- Heavy SQL
-- BI Tools 
-- Relational Databases - row-store and columnar, on-prem and cloud
-- Data Modeling, Database Design 
-- Some ETL and batch processing experience
-- Full-stack web development
+**Data Enthusiast who enjoys...**
+- Collaborating with data teams.
+- The process of... transforming, fixing, cleaning, testing and documenting datasets.
+- Creating datasets that fulfill stakeholders needs, often with the aim of creating self-service solutions.
+- Working with databases 
+- Working with SQL, ELT solutions.
 
 ---
 
 **Tools**
 
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="50" height="50"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="50" height="50"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/redshift.png"  title="Redshift" alt="redshift" width="50" height="50"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/bigquery.svg"  title="Big Query" alt="big query" width="50" height="50"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="AWS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"  title="GCP" alt="Oracle" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="AWS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
+
+
+<img src="https://github.com/richardgourley/richardgourley/blob/main/metabase.png"  title="Metabase" alt="metabase" width="50" height="50"/>&nbsp;
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="50" height="50"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/tableau.svg"  title="Tableau" alt="tableau" width="50" height="50"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
 
 ---
 
-⛏️ **Specific Tools:**
+**Certs:**
 
-BI: PowerBI, Tableau, Looker Data Studio
 
-CLOUD: GCP Big Query, AWS Athena, AWS Glue, AWS LightSail, Azure Synapse Analytics
-
-DATABASE: PL/pgSQL, T-SQL, PL/SQL, SSAS, SSIS
-
-LANGUAGES: Python, C#, PHP
-
----
 
 <div>
   <br>
   <a href="https://www.credly.com/badges/6a41f24e-eb2a-4495-a4fc-77fe53996811/public_url" target="_blank">
     <img src="https://github.com/richardgourley/richardgourley/blob/main/image.png" title="Data Analyst certficate" alt="Data Analyst certficate" heigh="90" width="90"/>
+  </a>
+
+  <a href="https://www.credential.net/profile/richardgourley100963/wallet" target="_blank">
+    <img src="https://github.com/richardgourley/richardgourley/blob/main/dbt_cert.png" title="dbt certificate" alt="dbt certificate" height="90" width="90"/>
   </a>
   
   <a href="https://www.credly.com/badges/e350c9dc-a7ab-464c-831f-684cbaba4d1f/public_url" target="_blank">
@@ -72,6 +71,10 @@ LANGUAGES: Python, C#, PHP
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"  title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"  title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
 </div>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="AWS" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
  
 ADD SQL, POSTGRES, GCP, ORACLE, TABLEAU
 
@@ -82,7 +85,7 @@ https://github.com/devicons/devicon/blob/master/icons/python/python-original-wor
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="90" height="90"/>&nbsp;
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="AWS" alt="Linux" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
