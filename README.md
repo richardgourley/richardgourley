@@ -1,21 +1,20 @@
 <div>
   <h2>Hi I'm Richard! 👋 </h2>
-  <h3>Analytics Engineer</h3>
 </div>
-
 
 **Data Enthusiast who enjoys...**
 - Collaborating with data teams.
-- The process of... transforming, fixing, cleaning, testing and documenting datasets.
 - Creating datasets that fulfill stakeholders needs, often with the aim of creating self-service solutions.
-- Working with databases 
-- Working with SQL, ELT solutions.
+- Relational DBs - PostgreSQL and Columnar store databases - BigQuery.
+- Working with SQL, ELT and the modern data stack.
+- Background in Django, NGINX and PostgreSQL.
+- Now working with dbt and BigQuery.
 
 ---
 
 **Tools**
 
-<img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="50" height="50"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="40" height="40"/>
 <img src="https://github.com/richardgourley/richardgourley/blob/main/redshift.png"  title="Redshift" alt="redshift" width="50" height="50"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/bigquery.svg"  title="Big Query" alt="big query" width="50" height="50"/>&nbsp;
 
