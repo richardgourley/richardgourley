@@ -14,18 +14,14 @@
 
 **Tools**
 
-<img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="40" height="40"/>
+<img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/redshift.png"  title="Redshift" alt="redshift" width="50" height="50"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/bigquery.svg"  title="Big Query" alt="big query" width="50" height="50"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="AWS" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="50" height="50"/>&nbsp;
-
-
 <img src="https://github.com/richardgourley/richardgourley/blob/main/metabase.png"  title="Metabase" alt="metabase" width="50" height="50"/>&nbsp;
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="50" height="50"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/tableau.svg"  title="Tableau" alt="tableau" width="50" height="50"/>&nbsp;
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="50" height="50"/>&nbsp;
