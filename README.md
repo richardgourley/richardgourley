@@ -4,10 +4,10 @@
 
 **Data Enthusiast who enjoys...**
 - Collaborating with data teams.
-- Creating datasets that fulfill stakeholders needs, often with the aim of creating self-service solutions.
+- Creating accurate datasets (dbt helps) that fulfill stakeholders needs, often with the aim of creating self-service solutions.
 - Relational DBs - PostgreSQL and Columnar store databases - BigQuery.
 - Working with SQL, ELT and the modern data stack.
-- Background in Django, NGINX and PostgreSQL.
+- Background in Python Django, NGINX and PostgreSQL.
 - Now working with dbt and BigQuery.
 
 ---
