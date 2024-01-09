@@ -4,13 +4,13 @@
 
 **Data Professional**
 
-👨‍💻 **Working with...**
-- dbt, BigQuery and Snowflake
-- GCP
-- Relational DBs - PostgreSQL and Columnar store databases - BigQuery.
+👨‍💻 **Skills:**
+- dbt, BigQuery, Snowflake
+- Data Warehouses, Data Modeling
+- MetaBase, Tableau
 
-👨‍🎓 **Background in....**
-- Python Django, Liux, NGINX and PostgreSQL.
+👨‍🎓 **Background:**
+- Python Django, Linux, NGINX, PostgreSQL
 
 ---
 
