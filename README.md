@@ -16,7 +16,7 @@
 
 <img src="https://github.com/richardgourley/richardgourley/blob/main/dbt.png"  title="DBT" alt="DBT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/bigquery.svg"  title="Big Query" alt="big query" width="40" height="40"/>&nbsp;
-<img src="https://github.com/richardgourley/richardgourley/blob/main/snowflake.svg"  title="Snowflake" alt="big query" width="40" height="40"/>&nbsp;
+<img src="https://github.com/richardgourley/richardgourley/blob/main/snowflake.png"  title="Snowflake" alt="big query" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="40" height="40"/>&nbsp;
