@@ -4,12 +4,12 @@
 
 **Data Professional**
 
-👨‍💻 Working with...
+👨‍💻 **Working with...**
 - dbt, BigQuery and Snowflake
+- GCP
 - Relational DBs - PostgreSQL and Columnar store databases - BigQuery.
-- ELT pipelines and the modern data stack.
-- 
-👨‍🎓 Background in....
+
+👨‍🎓 **Background in....**
 - Python Django, Liux, NGINX and PostgreSQL.
 
 ---
