@@ -6,11 +6,12 @@
 
 👨‍💻 **Skills:**
 - dbt, BigQuery, Snowflake
-- Data Warehouses, Data Modeling
+- Data Warehousing, Data Modeling
 - MetaBase, Tableau
 
 👨‍🎓 **Background:**
 - Python Django, Linux, NGINX, PostgreSQL
+- SQL Server, PowerBI
 
 ---
 
