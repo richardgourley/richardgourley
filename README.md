@@ -2,13 +2,15 @@
   <h2>Hi I'm Richard! 👋 </h2>
 </div>
 
-**Data Enthusiast who enjoys...**
-- Collaborating with data teams.
-- Creating accurate datasets (dbt helps) that fulfill stakeholders needs, often with the aim of creating self-service solutions.
+**Data Professional**
+
+👨‍💻 Working with...
+- dbt, BigQuery and Snowflake
 - Relational DBs - PostgreSQL and Columnar store databases - BigQuery.
-- Working with SQL, ELT and the modern data stack.
-- Background in Python Django, NGINX and PostgreSQL.
-- Now working with dbt and BigQuery.
+- ELT pipelines and the modern data stack.
+- 
+👨‍🎓 Background in....
+- Python Django, Liux, NGINX and PostgreSQL.
 
 ---
 
