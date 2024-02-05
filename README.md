@@ -7,10 +7,10 @@
 - Cloud - AWS, GCP
 - Airflow for Orchestration
 - Data Warehousing, Data Modeling
+- MetaBase, Tableau
 
 👨‍🎓 **Background:**
 - SQL Server, PowerBI
-- MetaBase, Tableau
 - Python Django, Linux, NGINX, PostgreSQL
 
 ---
@@ -22,14 +22,12 @@
 <img src="https://github.com/richardgourley/richardgourley/blob/main/snowflake.png"  title="Snowflake" alt="big query" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL-server"  alt="SQL-server" width="40" height="40"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/metabase.png"  title="Metabase" alt="metabase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"  title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/richardgourley/richardgourley/blob/main/tableau.svg"  title="Tableau" alt="tableau" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
 
 ---
 
